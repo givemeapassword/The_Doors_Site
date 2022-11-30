@@ -32,7 +32,7 @@ body {
     font-weight: 20px;
     text-transform: uppercase;
     text-align: center;
-    color: rgb(179, 177, 177);
+    color: rgb(179, 177, 177);  
 }
 .intro_inner{
     margin: 0 auto;
@@ -156,7 +156,17 @@ body {
     margin-right: auto;
     margin-bottom: 145px;
     width: 90%;
-    height: 200vh;
+    height: 140vh;
+    background-color: rgb(226, 226, 226);
+}
+.main_block2{
+    position: relative;
+    margin-top: 153px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 145px;
+    width: 90%;
+    height: 140vh;
     background-color: rgb(226, 226, 226);
 }
 
