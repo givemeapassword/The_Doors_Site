@@ -6,3 +6,8 @@
 - ссылки на музыку данной группы
 - анимация фотографий
 - оглавление с переходами
+  #Примерный дизайн
+  ![main](main.png)
+  ![biography](biography.png)
+  ![band](band.png)
+  ![albums](albums.png)
